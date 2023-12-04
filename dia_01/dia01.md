@@ -1,7 +1,7 @@
 --- Dia 1: Trebuchet?! ---
 
 <div align="center">
-    <img width="50%" title="ByBing" src="./imgs/calibrador_dia01.jpeg" align="center"/>
+    <img width="50%" title="ByBing" src="../imgs/calibrador_dia01.jpeg" align="center"/>
 </div>
 
 ## Contexto
