@@ -1,35 +1,43 @@
+## JINGOLBLEU! JINGOLBLEU! VAMOS TIRAR O ADVENT OF CODE DO PAPEL!
+
+
+<div align="center">
+    <img width="50%" title="ByBing" src="./imgs/README.jpeg" align="center"/>
+</div>
+
+<br>
+
+## Introdução
 Vamos fazer esse Adventure Of Code Juntoos? 
+To bem empolgada para fazer a 1ª edição do Advent of Code na nossa comunidade! 
 
-O que é isso?
-O Rick Wastl cria o Advent of Code todos anos desde de ....
-O Advent of Code é um calendário de 1 a 25 de dezembro que libera pequenos quebra-cabeças de programação diários nesse período para várias habilidades e níveis que podem ser resolvidos em qualquer linguagem de programação.
-A nosa será em Python!
-As pessoas os usam como preparação para entrevistas, treinamento corporativo, cursos universitários, problemas de prática, uma competição de velocidade ou para desafiar uns aos outros! 
+*_O que é isso Santos?*
 
-**--- Dicas Gerais ---**
-Se ficar preso:
-1º teste sua solução com base nos exemplos fornecidos no quebra-cabeça; você deverá obter as mesmas respostas! 2º Releia! Será que você entendeu algo errado? Seu programa está fazendo algo que você não espera? 
-3º Memo assim a resposta está dando errado? Crie alguns casos de teste nos quais você pode verificar a resposta manualmente e veja se eles funcionam com seu programa. Certifique-se de ter toda a entrada do quebra-cabeça. S
-5º e ainda estiver preso, leve sua dúvida ao canal do Discord da DevPro! Ou mesmo leve a discussão para nossas monitorias! 
+Este é um projeto do Rick Wastl desde 2015! 
+O Advent of Code é um calendário de 1 a 25 de dezembro que libera pequenos quebra-cabeças de programação diários. Esses quebra-cabeças exploram diversas habilidades e níveis, e podem ser resolvidos em qualquer linguagem de programação. O que vai importar pro site é o resultado correto. (geralmente é apenas um número!)
 
-** --- Como participar? --- **
+**A nossa linguaguem será em Python!**
 
-Só pelo site!
+As pessoas usam como preparação para entrevistas, para publicar no linkedin de que resolveram dia X e como resolveram (Dá uma olhada nessa publicação do Tyrone no Linkedin!) treinamento corporativo, cursos universitários, problemas de prática, ou para desafiar uns aos outros! 
+
+## Como participar?
+
+### Se quiser participar só pelo site!
 
 1º Crie uma conta no [Advent of Code](https://adventofcode.com/). Você pode usar seu github para criar a conta!
-2º Inscreva-se no nosso Racking com o código divulgado na comunidade do discord por essa página aqui!
+2º Inscreva-se no nosso Rank com o código divulgado na comunidade do discord por essa [página aqui](https://adventofcode.com/2023/leaderboard/private)!
 3º Acesse a plataforma e resolva o problema do dia! A resolução de um dia libera o outro dia!
 
-Lá no site o rank vai ser organizado pela equipe da Advent of Code!
+### Participar também com repositório no GitHub!
+Como ele vai te servir?
 
-Partilhando o código pelo repositório!
-Você também pode forkar esse repositório! Do que ele vai servir?
+* Receber feedbacks do seu código! (vou tentar estar sempre aqui realizando feedback ou pedindo ajuda para isso!)
 
-a - Receber feedbacks do seu código!
-b - Partilhar suas soluções!
-c - Consultar as soluções da galera!
+* Partilhar suas soluções!
 
-A branch main será atualizada diariamente com os desafios, sendo o texto traduzido para português em arquivo MD e os input em TXT! Todos organizados em pastas!
+* Consultar as soluções da galera!
+
+A branch main será atualizada diariamente com os desafios, os textos serão traduzidos para português em arquivo MD e os input em TXT, todos organizados em pastas!
 
 4º Fork esse repositório
 5º Escreva um código python que resolva o problema
@@ -39,8 +47,15 @@ A branch main será atualizada diariamente com os desafios, sendo o texto traduz
 
 Vaaamos construir esse repositório juntos!
 
+**--- Dicas Gerais ---**
+Se ficar preso:
+-  Teste sua solução com base nos exemplos fornecidos no quebra-cabeça; você deverá obter as mesmas respostas!
+- Releia! Será que você entendeu algo errado? Seu programa está fazendo algo que você não espera? 
+- Memo assim a resposta está dando errado? Crie alguns casos de teste nos quais você pode verificar a resposta manualmente e veja se eles funcionam com seu programa. Certifique-se de ter toda a entrada do quebra-cabeça. 
+- E ainda estiver preso, leve sua dúvida ao canal do Discord da DevPro! Ou mesmo leve a discussão para nossas monitorias! 
 
-Apesar de tudo, você deve participar do Advent of Code de uma maneira que seja útil para você, então é completamente aceitável escolher uma abordagem que atenda aos seus objetivos e ignorar a classificação completamente.
+
+Apesar disso tudo, você deve participar do Advent of Code de uma maneira que seja útil para você, então é completamente aceitável escolher uma abordagem que atenda aos seus objetivos e ignorar a classificação completamente.
 
 Você pode se perguntar um dia "Por que este quebra-cabeça foi tão fácil/difícil?" A dificuldade e o assunto variam ao longo de cada evento. De maneira muito geral, os quebra-cabeças ficam mais difíceis ao longo do tempo, mas sua habilidade específica tornará cada quebra-cabeça significativamente mais fácil ou mais difícil para você do que para outra pessoa. Criar quebra-cabeças é complicado.
 
